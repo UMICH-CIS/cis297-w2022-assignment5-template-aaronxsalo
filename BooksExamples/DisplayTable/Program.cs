@@ -9,8 +9,11 @@ namespace DisplayTable
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry point for the application; forms application starts here
         /// </summary>
+        /// <Student>Aaron Salo</Student>
+        /// <Class>CIS297</Class>
+        /// <Semester>Winter 2022</Semester>
         [STAThread]
         static void Main()
         {
